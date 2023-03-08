@@ -1,0 +1,16 @@
+{
+  "name": "com.fg.firebasegit",
+  "version": "9.6.0",
+  "displayName": "FG.FirebaseAndroidSDK",
+  "keywords": [
+    "FG.Firebase"
+  ],
+  "author": {
+    "name": "FinalGalaxy",
+    "url": ""
+  },
+  "description": "Firebase for game",
+  "unity": "2021.3",
+  "dependencies": {}
+  }
+}

@@ -1,0 +1,7 @@
+FirebaseCppApp-9_6_0.so filter=lfs diff=lfs merge=lfs -text
+*.srcaar filter=lfs diff=lfs merge=lfs -text
+*.jar filter=lfs diff=lfs merge=lfs -text
+network_request.exe filter=lfs diff=lfs merge=lfs -text
+generate_xml_from_google_services_json.exe filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+*.bundle filter=lfs diff=lfs merge=lfs -text
