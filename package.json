@@ -11,6 +11,10 @@
   },
   "description": "Firebase for game",
   "unity": "2021.3",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Raikousen/FirebaseAndroidSDK.git",
+    "directory": "com.fg.firebasegit"
   }
 }
